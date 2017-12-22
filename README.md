@@ -1,6 +1,6 @@
 ## Norwegian word list
 
-Can be used as custom dictionary for IntelliJ IDEA by fallowing intruction from the ofiicial web page:
+Can be used as custom dictionary for IntelliJ IDEA by following intruction from the official web page:
 
 > **To add a dictionary, follow these steps**:
 > * Create a directory in your file system, and in it a text file with the .dic extension.
